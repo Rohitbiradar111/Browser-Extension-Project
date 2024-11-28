@@ -1,0 +1,51 @@
+.todo-container {
+    background-color: #57534e;
+    padding: 10px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 5.5rem;
+    right: 2rem;
+    overflow-y: auto;
+    max-height: 50vh;
+}
+
+.todo-input {
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+    outline: none;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    padding: 5px;
+    text-align: center;
+}
+
+.todos-div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.todo-checkbox {
+    width: 1rem;
+    height: 1rem;
+    cursor: pointer;
+}
+
+#todo-label {
+    font-size: 1rem;
+    margin-left: 10px;
+    margin-right: 10px;
+    max-width: 10vw;
+    word-wrap: break-word;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+.todo-clear-btn {
+    border: none;
+    background-color: transparent;
+    cursor: pointer;
+}
