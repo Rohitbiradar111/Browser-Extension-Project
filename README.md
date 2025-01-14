@@ -6,15 +6,14 @@
 <a href="#contribute">Contribute</a> 
 </p>
 
-[MyXtension](https://myxtension.netlify.app) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With Extensry you can set your main/focus task of the day ansd also create your own todo.
-
+[MyXtension](https://myxtension.netlify.app) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With MyXtension you can set your main/focus task of the day and also create your own todo.
 
 ## List of features
 Home Page
 - In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
 
 Task Page
-- In the task page, you can add your main/focus task of the day, once you complete the task you can eihter check it or clear it to create a new task. There is a beautiful ToDo at the bottom right of the page that let's you add todos. When the dat changes the main task will be deleted but the todo will still be there.
+- In the task page, you can add your main/focus task of the day, once you complete the task you can either check it or clear it to create a new task. There is a beautiful ToDo at the bottom right of the page that let's you add todos.
 
 
 <p align="center">
@@ -28,8 +27,6 @@ Task Page
 - React
 
 <h2 id="started">🚀 Getting started</h2>
-
- 
 
 <h3>Cloning</h3>
 
@@ -51,7 +48,6 @@ Start the server
 ```bash
   npm start
 ```
-
 
 <h2 id="contribute">📫 Contribute</h2>
 
