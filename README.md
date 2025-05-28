@@ -1,58 +1,76 @@
-<h1 align="center" style="font-weight: bold;">MyXtension - Browser Extension</h1>
+<div align="center">
+  <div>
+    <a href="https://myxtension.netlify.app/" target="_blank">
+      <img src="https://github.com/user-attachments/assets/bd21c85d-7942-4f92-b389-0f9a968cb1c7" alt="Project Image">
+    </a>
+  </div>
+  <h1 align="center">MyXtension - Browser Extension</h1>
+</div>
 
-<p align="center">
-<a href="#technologies">Technologies</a>
-<a href="#started">Getting Started</a>
-<a href="#contribute">Contribute</a> 
-</p>
+## 📋 <a name="table">Table of Contents</a>
 
-[MyXtension](https://myxtension.netlify.app) is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With MyXtension you can set your main/focus task of the day and also create your own todo.
+1. 💡 [Overview](#overview)
+2. 👩‍💻 [Tech Stack](#tech-stack)
+3. ✨ [Features](#features)
+4. 📦 [Getting Started](#getting-started)
+5. 📖 [Documentation](#documentation)
+6. 📫 [Contribute](#contribute)
+7. 🐛 [Issues](#issues)
 
-## List of features
-Home Page
-- In the home page, you can start by adding your name and then press the enter key which will route you to the task page. If you refresh the home page you will see a different soothing background image.
+## <a name="overview">💡 Overview</a>
 
-Task Page
-- In the task page, you can add your main/focus task of the day, once you complete the task you can either check it or clear it to create a new task. There is a beautiful ToDo at the bottom right of the page that let's you add todos.
+MyXtension is a super cool browser extension that greets you with a message according to the time of the day and shows different background on page refresh. With MyXtension you can set your main/focus task of the day and also create your own todo.
 
+## <a name="tech-stack">👩‍💻 Tech Stack</a>
 
-<p align="center">
-<a href="https://myxtension.netlify.app/">📱 Visit this Project</a>
-</p>
-
-<h2 id="technologies">💻 Technologies</h2>
-
-- HTML
-- CSS
 - React
 
-<h2 id="started">🚀 Getting started</h2>
+## <a name="features">✨ Features</a>
 
-<h3>Cloning</h3>
+- Dynamic background images on the home page that change with each refresh.
 
-Clone the project by adding the following command in the terminal.
-Make sure your have git installed and added to path.
+- User name input for personalized task tracking.
+
+- Daily focus task creation and management.
+
+- Task completion and reset options.
+
+- Integrated ToDo list for adding and managing multiple tasks.
+
+## <a name="getting-started">📦 Getting Started</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**clone the repository**
 
 ```bash
-  git clone https://github.com/Rohitbiradar111/Browser-Extension-Project.git
+git clone https://github.com/Rohitbiradar111/Browser-Extension-Project.git
 ```
 
-Install dependencies
+## <a name="documentation">📖 Documentation</a>
 
-```bash
-  npm install
-```
+[React](https://react.dev/)
 
-Start the server
+## <a name="contribute">📫 Contribute</a>
 
-```bash
-  npm start
-```
+Contributions are always welcome. Please follow these steps to contribute:
 
-<h2 id="contribute">📫 Contribute</h2>
+1. **Fork the repository.**
+2. **Create a new branch** (`git checkout -b feature/your-feature-name`).
+3. **Make your changes** and commit them (`git commit -m 'Add some feature'`).
+4. **Push to the branch** (`git push origin feature/your-feature-name`).
+5. **Open a pull request**.
 
-Contributions are always welcomed. Feel free to raise issues or send in pull requests.
+Please make sure to update tests as appropriate.
 
-<h3>Documentations that might help</h3>
+## <a name="issues">🐛 Issues</a>
 
-[Official React Documentation](https://react.dev/)
+If you encounter any issues while using or setting up the project, please check the issues section to see if it has already been reported. If not, feel free to open a new issue detailing the problem.
+
+When reporting an issue, please include:
+
+- A clear and descriptive title.
+- A detailed description of the problem.
+- Steps to reproduce the issue.
+- Any relevant logs or screenshots.
+- The environment in which the issue occurs (OS, browser, Node.js version, etc.).
