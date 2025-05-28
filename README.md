@@ -47,6 +47,20 @@ Follow these steps to set up the project locally on your machine.
 git clone https://github.com/Rohitbiradar111/Browser-Extension-Project.git
 ```
 
+**Install dependencies**
+
+```bash
+  npm install
+```
+
+**Start the server**
+
+```bash
+  npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+
 ## <a name="documentation">📖 Documentation</a>
 
 [React](https://react.dev/)
